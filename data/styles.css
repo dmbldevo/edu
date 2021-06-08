@@ -10,6 +10,16 @@
   line-height:normal;
   text-transform:none;
 }
+.box_1 {
+}
+.el-button-primary {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:center;
+}
 .box_2 {
 }
 ._图片_ {
@@ -66,5 +76,40 @@
 ._表单禁用 {
 }
 ._流程形状 {
+}
+.heading_3 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
+}
+.box_3 {
+}
+.shape {
+}
+.icon {
+}
+.image {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.flow_shape {
+}
+.table_cell {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:normal;
+  font-style:normal;
+  font-size:13px;
+  color:#000000;
+}
+.menu_item {
 }
 textarea, select, input, button { outline: none; }
