@@ -52,9 +52,9 @@
   left:0px;
   top:0px;
   width:559px;
-  height:66px;
+  height:100px;
   background:inherit;
-  background-color:rgba(43, 132, 86, 1);
+  background-color:rgba(43, 132, 86, 0.996078431372549);
   border:none;
   border-radius:2px;
   -moz-box-shadow:none;
@@ -65,10 +65,10 @@
 #u1 {
   border-width:0px;
   position:absolute;
-  left:678px;
-  top:32px;
+  left:679px;
+  top:12px;
   width:559px;
-  height:66px;
+  height:100px;
   display:flex;
   color:#2B8456;
 }
@@ -90,8 +90,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:395px;
-  height:21px;
+  width:380px;
+  height:23px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -99,19 +99,19 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-size:18px;
+  font-size:20px;
   color:#FDFDFD;
   text-align:center;
 }
 #u2 {
   border-width:0px;
   position:absolute;
-  left:716px;
+  left:723px;
   top:53px;
-  width:395px;
-  height:21px;
+  width:380px;
+  height:23px;
   display:flex;
-  font-size:18px;
+  font-size:20px;
   color:#FDFDFD;
   text-align:center;
 }
@@ -381,43 +381,33 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u11 {
-  border-width:0px;
-  position:absolute;
-  left:708px;
-  top:41px;
-  width:521px;
-  height:46px;
-  overflow:hidden;
-  background-image:url('../../resources/images/transparent.gif');
-}
-#u12_img {
+#u11_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:95px;
-  height:37px;
+  width:100px;
+  height:100px;
 }
-#u12 {
+#u11 {
   border-width:0px;
   position:absolute;
-  left:1108px;
-  top:50px;
-  width:85px;
-  height:27px;
+  left:1138px;
+  top:12px;
+  width:100px;
+  height:100px;
   display:flex;
-  color:#FFB757;
 }
-#u12 .text {
+#u11 .text {
   position:absolute;
   align-self:center;
-  padding:6px 10px 6px 10px;
+  padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u12_text {
+#u11_text {
   border-width:0px;
-  white-space:nowrap;
+  word-wrap:break-word;
   text-transform:none;
+  visibility:hidden;
 }
