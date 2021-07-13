@@ -1858,3 +1858,33 @@
   white-space:nowrap;
   text-transform:none;
 }
+#u50 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:282px;
+  width:200px;
+  height:48px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u51 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:330px;
+  width:200px;
+  height:48px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u52 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:378px;
+  width:200px;
+  height:48px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
