@@ -502,7 +502,7 @@
   left:0px;
   top:0px;
   width:39px;
-  height:14px;
+  height:15px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -510,10 +510,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'方正舒体', sans-serif;
-  font-weight:400;
-  font-style:normal;
-  color:#FFFFFF;
+  color:#FED700;
 }
 #u13 {
   border-width:0px;
@@ -521,12 +518,9 @@
   left:156px;
   top:29px;
   width:39px;
-  height:14px;
+  height:15px;
   display:flex;
-  font-family:'方正舒体', sans-serif;
-  font-weight:400;
-  font-style:normal;
-  color:#FFFFFF;
+  color:#FED700;
 }
 #u13 .text {
   position:absolute;
@@ -688,7 +682,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:151px;
+  width:125px;
   height:15px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -704,7 +698,7 @@
   position:absolute;
   left:830px;
   top:272px;
-  width:151px;
+  width:125px;
   height:15px;
   display:flex;
   color:#000000;

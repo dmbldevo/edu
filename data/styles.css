@@ -219,6 +219,9 @@
 }
 .table_cell {
 }
+.marker {
+  color:#FFFFFF;
+}
 ._表单提示 {
   color:#999999;
 }
@@ -258,6 +261,14 @@
   text-align:center;
 }
 .text_field {
+  color:#000000;
+  text-align:left;
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
   color:#000000;
   text-align:left;
 }
