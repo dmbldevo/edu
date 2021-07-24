@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="100px" height="100px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="clip14">
+    <mask fill="white" id="clip54">
       <path d="M 94 173.5  C 66.5275 173.5  44.5 151.4725  44.5 124  L 44.5 124  C 44.5 96.5275  66.5275 74.5  94 74.5  L 94 74.5  C 121.4725 74.5  143.5 96.5275  143.5 124  L 143.5 124  C 143.5 151.4725  121.4725 173.5  94 173.5  L 94 173.5  " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -44 -74 )">
-    <path d="M 44 74  L 144 74  L 144 174  L 44 174  L 44 74  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip14)" />
-    <path d="M 51 81  L 137 81  L 137 167  L 51 167  L 51 81  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip14)" />
-    <path d="M 103.5 104  C 99.3 104  96 100.7  96 96.5  C 96 92.3  99.3 89  103.5 89  C 107.7 89  111 92.3  111 96.5  C 111 100.7  107.7 104  103.5 104  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip14)" />
-    <path d="M 54 165  L 54 120.45  L 74.25 100.2  L 102.6 116.4  L 118.8 112.35  L 135 116.4  L 135 165  L 54 165  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip14)" />
-    <path d="M 94 173.5  C 66.5275 173.5  44.5 151.4725  44.5 124  L 44.5 124  C 44.5 96.5275  66.5275 74.5  94 74.5  L 94 74.5  C 121.4725 74.5  143.5 96.5275  143.5 124  L 143.5 124  C 143.5 151.4725  121.4725 173.5  94 173.5  L 94 173.5  Z " stroke-width="1" stroke="#ffd700" fill="none" mask="url(#clip14)" />
+    <path d="M 44 74  L 144 74  L 144 174  L 44 174  L 44 74  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip54)" />
+    <path d="M 51 81  L 137 81  L 137 167  L 51 167  L 51 81  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip54)" />
+    <path d="M 103.5 104  C 99.3 104  96 100.7  96 96.5  C 96 92.3  99.3 89  103.5 89  C 107.7 89  111 92.3  111 96.5  C 111 100.7  107.7 104  103.5 104  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip54)" />
+    <path d="M 54 165  L 54 120.45  L 74.25 100.2  L 102.6 116.4  L 118.8 112.35  L 135 116.4  L 135 165  L 54 165  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip54)" />
+    <path d="M 94 173.5  C 66.5275 173.5  44.5 151.4725  44.5 124  L 44.5 124  C 44.5 96.5275  66.5275 74.5  94 74.5  L 94 74.5  C 121.4725 74.5  143.5 96.5275  143.5 124  L 143.5 124  C 143.5 151.4725  121.4725 173.5  94 173.5  L 94 173.5  Z " stroke-width="1" stroke="#ffd700" fill="none" mask="url(#clip54)" />
   </g>
 </svg>

@@ -275,6 +275,12 @@
 .checkbox {
   text-align:left;
 }
+.radio_button {
+  text-align:left;
+}
+.tree_node {
+  text-align:left;
+}
 .flow_shape {
 }
 .table_cell1 {
@@ -287,5 +293,11 @@
 .menu_item {
 }
 .flow_shape1 {
+}
+.box_11 {
+  font-family:'PingFang SC ', 'PingFang SC', sans-serif;
+  font-weight:650;
+  font-style:normal;
+  font-size:15px;
 }
 textarea, select, input, button { outline: none; }
