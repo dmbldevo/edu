@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u1052_img {
+#u0_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -24,7 +24,7 @@
   width:1920px;
   height:1080px;
 }
-#u1052 {
+#u0 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -33,20 +33,20 @@
   height:1080px;
   display:flex;
 }
-#u1052 .text {
+#u0 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1052_text {
+#u0_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1053 {
+#u1 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -54,7 +54,7 @@
   width:0px;
   height:0px;
 }
-#u1054_div {
+#u2_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -77,7 +77,7 @@
   -webkit-box-shadow:1px 1px 5px rgba(0, 0, 0, 0.349019607843137);
   box-shadow:1px 1px 5px rgba(0, 0, 0, 0.349019607843137);
 }
-#u1054 {
+#u2 {
   border-width:0px;
   position:absolute;
   left:689px;
@@ -86,20 +86,20 @@
   height:179px;
   display:flex;
 }
-#u1054 .text {
+#u2 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1054_text {
+#u2_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1055_div {
+#u3_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -115,7 +115,7 @@
   box-shadow:none;
   text-align:center;
 }
-#u1055 {
+#u3 {
   border-width:0px;
   position:absolute;
   left:764px;
@@ -125,19 +125,19 @@
   display:flex;
   text-align:center;
 }
-#u1055 .text {
+#u3 .text {
   position:absolute;
   align-self:flex-start;
   padding:5px 5px 5px 5px;
   box-sizing:border-box;
   width:100%;
 }
-#u1055_text {
+#u3_text {
   border-width:0px;
   white-space:nowrap;
   text-transform:none;
 }
-#u1056_div {
+#u4_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -153,7 +153,7 @@
   box-shadow:none;
   color:#FFFFFF;
 }
-#u1056 {
+#u4 {
   border-width:0px;
   position:absolute;
   left:867px;
@@ -163,19 +163,19 @@
   display:flex;
   color:#FFFFFF;
 }
-#u1056 .text {
+#u4 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1056_text {
+#u4_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u1057 {
+#u5 {
   border-width:0px;
   position:absolute;
   left:860px;
@@ -185,7 +185,7 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u1058 {
+#u6 {
   border-width:0px;
   position:absolute;
   left:1096px;
