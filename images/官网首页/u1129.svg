@@ -1,9 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="529px" height="310px" xmlns="http://www.w3.org/2000/svg">
-  <g transform="matrix(1 0 0 1 -462 -3633 )">
-    <path d="M 462 3633  L 991 3633  L 991 3943  L 462 3943  L 462 3633  " fill-rule="nonzero" fill="#cccccc" stroke="none" />
-    <path d="M 484 3655  L 969 3655  L 969 3921  L 484 3921  L 484 3655  " fill-rule="nonzero" fill="#ffffff" stroke="none" />
-    <path d="M 760.33 3726  C 747.31 3726  737.08 3715.77  737.08 3702.75  C 737.08 3689.73  747.31 3679.5  760.33 3679.5  C 773.35 3679.5  783.58 3689.73  783.58 3702.75  C 783.58 3715.77  773.35 3726  760.33 3726  " fill-rule="nonzero" fill="#cccccc" stroke="none" />
-    <path d="M 492 3913  L 492 3775.5  L 609.25 3713  L 773.4 3825.09829867675  L 867.2 3750.5  L 961 3825.09829867675  L 961 3913  L 492 3913  " fill-rule="nonzero" fill="#169bd5" stroke="none" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="40px" height="50px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter x="427px" y="4302px" width="40px" height="50px" filterUnits="userSpaceOnUse" id="filter16">
+      <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetInner" />
+      <feGaussianBlur stdDeviation="2.5" in="shadowOffsetInner" result="shadowGaussian" />
+      <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.698039215686274 0  " in="shadowComposite" />
+    </filter>
+    <g id="widget17">
+      <path d="M 446 4345.03692846835  C 440.2 4335.40734059591  431.5 4329.62958787244  431.5 4320  C 431.5 4314.98571428571  434.4 4306.5  446 4306.5  C 457.6 4306.5  460.5 4314.98571428571  460.5 4320  C 460.5 4329.62958787244  451.8 4335.40734059591  446 4345.03692846835  Z " fill-rule="nonzero" fill="#009dd9" stroke="none" />
+      <path d="M 446 4346  C 440 4336  431 4330  431 4320  C 431 4314.8  434 4306  446 4306  C 458 4306  461 4314.8  461 4320  C 461 4330  452 4336  446 4346  Z M 446 4344.07385693671  C 451.6 4334.81468119182  460 4329.25917574489  460 4320  C 460 4315.17142857143  457.2 4307  446 4307  C 434.8 4307  432 4315.17142857143  432 4320  C 432 4329.25917574489  440.4 4334.81468119182  446 4344.07385693671  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" />
+    </g>
+  </defs>
+  <g transform="matrix(1 0 0 1 -427 -4302 )">
+    <use xlink:href="#widget17" filter="url(#filter16)" />
+    <use xlink:href="#widget17" />
   </g>
 </svg>
